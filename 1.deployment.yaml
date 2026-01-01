@@ -23,5 +23,5 @@ spec:
           - name: DB_HOST
             value: mysqldb
       imagePullSecrets:
-        - name: dockerhub-secret
+        - name: mysecret
         
